@@ -1,4 +1,5 @@
-Automatic Nutrient Dosing System
+<h1>Automatic Nutrient Dosing System 🌼</h1>
+
 
 Welcome to the Automatic Nutrient Dosing System project! This repository contains the code and documentation for an innovative system designed to optimize agricultural productivity by precisely managing nutrient levels in irrigation systems.
 
