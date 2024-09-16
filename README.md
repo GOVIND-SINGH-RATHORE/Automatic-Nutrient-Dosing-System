@@ -18,21 +18,21 @@ The Automatic Nutrient Dosing System utilizes Arduino and ESP32 microcontrollers
 
 To get started with the Automatic Nutrient Dosing System, follow these steps:
 
-1. **Clone the Repository**:
+1. Clone the Repository:
     ```sh
     git clone https://github.com/yourusername/automatic-nutrient-dosing-system.git
     ```
 
-2. **Install Dependencies**:
+2. Install Dependencies:
     Ensure you have the necessary libraries and tools installed for Arduino and ESP32.
 
-3. **Upload the Code**:
+3. Upload the Code:
     Upload the provided Arduino code to your microcontroller.
 
-4. **Connect the Sensors**:
+4. Connect the Sensors:
     Contact me for the wiring diagram.
 
-5. **Run the System**:
+5. Run the System:
     Power up your microcontroller and monitor the system's performance.
 
 ## Usage
